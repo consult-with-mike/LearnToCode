@@ -10,7 +10,7 @@
       "commandName": "Project",
       "environmentVariables": {
         "RUNTIME_ENVIRONMENT": "Development",
-        "AppSettings__FirstSetting": "Development Value"
+        "AppSettings__FirstSetting": "Environment Variable Value"
       }
     }
   }
