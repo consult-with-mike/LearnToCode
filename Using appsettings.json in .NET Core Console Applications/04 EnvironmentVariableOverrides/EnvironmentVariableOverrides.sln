@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{EF2BC251-A25D-4A90-8E05-09E1C128D27F}") = "EnvironmentVariableOverrides", "EnvironmentVariableOverrides.csproj", "{AC9E4F96-E95E-491A-9BA2-B2A012667AA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC9E4F96-E95E-491A-9BA2-B2A012667AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9E4F96-E95E-491A-9BA2-B2A012667AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9E4F96-E95E-491A-9BA2-B2A012667AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9E4F96-E95E-491A-9BA2-B2A012667AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E278CF7-AC09-4F8F-B609-7838E47F637E}
+	EndGlobalSection
+EndGlobal
