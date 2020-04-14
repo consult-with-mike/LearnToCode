@@ -11,7 +11,7 @@
       "commandLineArgs": "AppSettings:FirstSetting=\"Command Line Value\"",
       "environmentVariables": {
         "RUNTIME_ENVIRONMENT": "Development",
-        "AppSettings__FirstSetting": "Development Value"
+        "AppSettings__FirstSetting": "Environment Variable Value"
       }
     }
   }
